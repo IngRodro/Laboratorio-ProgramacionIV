@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         vehiculo.Datos()
         vehiculo.encenderauto()
         vehiculo.apagarauto()
+        vehiculo.Propietario()
     }
 }

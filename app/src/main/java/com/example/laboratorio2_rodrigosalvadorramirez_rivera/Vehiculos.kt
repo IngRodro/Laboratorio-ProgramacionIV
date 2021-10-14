@@ -18,7 +18,7 @@ class Vehiculos(var Modelo:String, var Marca:String, var Color:String, var Año:
         println("Color: $Color")
     }
 
-    override fun Propietario(){
+    public override fun Propietario(){
         println("El Propietario del vehiculo es $nombre")
     }
 }
