@@ -1,7 +1,7 @@
 package com.example.laboratorio2_rodrigosalvadorramirez_rivera
 
 interface Apagar {
-    fun apagar(){
+    fun apagarauto(){
         println("El Automovil esta apagado")
     }
 }

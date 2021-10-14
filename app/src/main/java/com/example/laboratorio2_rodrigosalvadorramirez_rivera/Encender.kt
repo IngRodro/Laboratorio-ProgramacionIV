@@ -1,7 +1,7 @@
 package com.example.laboratorio2_rodrigosalvadorramirez_rivera
 
 interface Encender {
-    fun encender(){
+    fun encenderauto(){
         println("El Automovil esta encendido")
     }
 }
